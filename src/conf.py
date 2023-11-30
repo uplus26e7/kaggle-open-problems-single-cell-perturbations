@@ -8,5 +8,11 @@ class DirConfig:
 
 
 @dataclass
+class GCSConfig:
+    bucket: str
+
+
+@dataclass
 class CreateFoldsConfig:
     dir: DirConfig
+    gcs: GCSConfig
