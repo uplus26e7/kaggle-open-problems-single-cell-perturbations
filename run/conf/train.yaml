@@ -2,3 +2,6 @@ defaults:
   - _self_
   - dir: local
   - gcs: default
+  - reducer: pca
+
+seed: 3

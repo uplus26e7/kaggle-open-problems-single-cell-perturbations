@@ -14,6 +14,7 @@ dacite==1.8.1
 fastparquet==2023.10.1
 fsspec==2023.10.0
 hydra-core==1.3.2
+joblib==1.3.2
 numpy==1.26.2
 omegaconf==2.3.0
 packaging==23.2
@@ -24,6 +25,9 @@ pydantic-core==2.14.5
 python-dateutil==2.8.2
 pytz==2023.3.post1
 pyyaml==6.0.1
+scikit-learn==1.3.2
+scipy==1.11.4
 six==1.16.0
+threadpoolctl==3.2.0
 typing-extensions==4.8.0
 tzdata==2023.3
