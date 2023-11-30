@@ -1,0 +1,3 @@
+data_dir: /home/ubuntu/Desktop/kaggle-open-problems-single-cell-perturbations/data
+processed_dir: /home/ubuntu/Desktop/kaggle-open-problems-single-cell-perturbations/processed
+output_dir: /home/ubuntu/Desktop/kaggle-open-problems-single-cell-perturbations/output

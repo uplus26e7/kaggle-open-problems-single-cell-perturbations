@@ -3,6 +3,10 @@ __pycache__/
 # hydra
 outputs/
 
+# wandb
+wandb/
+
 # data
 data/
 processed/
+output/

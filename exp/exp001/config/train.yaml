@@ -1,0 +1,21 @@
+defaults:
+  - _self_
+  - dir: local
+
+reducer:
+  n_components: 10
+  whiten: true
+
+target_encoder:
+  min_samples_leaf: 5
+  smoothing: 100
+
+model:
+  name: Ridge
+  alpha: 1e6
+
+wandb:
+  project: open-problems-single-cell-perturbations
+  use_wandb: true
+
+seed: 3
